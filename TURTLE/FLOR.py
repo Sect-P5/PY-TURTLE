@@ -24,7 +24,3 @@ for i in range(9):
         p.left(120)
 
 p.end_fill()
-
-
-#luis.albert@robotschool.es
-#cambiar extension a .txt
